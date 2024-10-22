@@ -1,8 +1,3 @@
-- <span style="font-family: Helvetica; font-weight: 300;"> My name is Darren.  My usual stack is [<img alt="python" width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />]() [<img alt="Django" width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />]() [<img alt="Postgres" width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />]() [<img alt="React" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>]().  I code using [<img alt="PyCharm" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"/>]() [<img alt="Vim" width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg"/>](https://www.vim.org/) [<img alt="Visual Studio Code" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>]().
-- You can contact me on [<img alt="Darren Alfonso | LinkedIn" width="25px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />](https://www.linkedin.com/in/darrenaalfonso).  
-
-Have a good one.  🤙 </span>
-
 <h1>Manager README</h1>
 
 <h2>The most important things to me</h2>
