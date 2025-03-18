@@ -20,7 +20,7 @@
 <p>* People have said I have an aggressive tone.&nbsp;&nbsp;I'm trying to improve it.</p>
 <p>* I like to joke.  Life is too short to be serious all the time.</p>
 <p>* Names are important to me.  People's names, variable names, division names, code names, project names, team names, company names.  If you come up with a name, at least show you've put some thought into it.</p>
-<p>* I appreciate directness but you may not e.g. "This process sucks" immediately after going through the process is better than pretending the process is fine.  If that's not your preference, let me know.</p>
+<p>* I appreciate directness but you may not e.g. "This process sucks" immediately after going through the process is better than pretending the process is fine. <a href="https://brenebrown.com/articles/2018/10/15/clear-is-kind-unclear-is-unkind/">Clear is Kind.</a> If that's not your preference, let me know.</p>
 <p>* I like sports.  They've taught me a lot about team dynamics, shared goals, individual personalities and failure.</p>
 <p>* I like analogies and quotes.  If I'm using an analogy you don't understand, let me know.</p>
 <p>* I appreciate humility.</p>
